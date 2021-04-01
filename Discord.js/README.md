@@ -23,6 +23,6 @@ client.login("Your secret token");
 <h1>By: ᵈᵉᵛZezo#2881</h1>
 ```js
 
-any
+anyssssf
 
 ```
